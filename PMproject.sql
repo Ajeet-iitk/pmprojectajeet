@@ -1,1 +1,1 @@
-SELECT * FROM pmprojectajeet.`active users`;
+SELECT * FROM pmprojectajeet.`number of active organisations`;
