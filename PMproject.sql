@@ -1,1 +1,1 @@
-SELECT * FROM pmprojectajeet.`number of active organisations`;
+SELECT * FROM pmprojectajeet.`key stats`;
